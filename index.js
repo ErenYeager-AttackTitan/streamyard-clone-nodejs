@@ -26,7 +26,7 @@ const options = [
     '-b:a', '128k',
     '-ar', 128000 / 4,
     '-f', 'flv',
-    `rtmp://a.rtmp.youtube.com/live2/dcfx-m7v2-j248-3185-9207`,
+    `rtmp://a.rtmp.youtube.com/live2/m8bt-37zw-sa9g-ybcs-40ss`,
 ];
 
 const ffmpegProcess = spawn('ffmpeg', options);
